@@ -1,10 +1,10 @@
-## Makers: The new Industrial Revolution
+### Makers: The new Industrial Revolution
 
 **Chris Anderson** [*Makers: The new Industrial Revolution*](https://www.amazon.co.uk/Makers-Industrial-Revolution-Chris-Anderson-ebook/dp/B008K4JDLA/)
 
 Introduction to the *makers* econonomy of the 21'st century.
 
-### Services
+#### Services
 
 * [Etsy](https://www.etsy.com/)
 * [Quirky](https://quirky.com/)

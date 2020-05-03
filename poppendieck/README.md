@@ -1,4 +1,4 @@
-## Implementing Lean Software Development
+### Implementing Lean Software Development
 
 **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](https://www.amazon.co.uk/Implementing-Lean-Software-Development-Addison-Wesley-ebook/dp/B00HNB3VQE)
 
@@ -8,7 +8,7 @@ Look at *projects* as *products*. There is no end-date.
 
 Give the customers more than they expect, which is only possible with a deep understanding of the business.
 
-### The 7 principles
+#### The 7 principles
 
 1) Eliminate waste
 2) Build quality in - TDD, CI, fix bugs
@@ -18,15 +18,15 @@ Give the customers more than they expect, which is only possible with a deep und
 6) Respect people
 7) Optimize the whole
 
-### Waste
+#### Waste
 
 Minimize the 7 types of waste in a software project.
 
-### Knowledge
+#### Knowledge
 
 Keeping track of knowledge through the *A3* report (e.g. mindmap and collection of notes on one piece of A3)
 
-### Dealing with partners
+#### Dealing with partners
 
 * frequent integration
 * exchange people

@@ -1,4 +1,4 @@
-## Instant MBA
+### Instant MBA
 
 **Nicolas Bate** [*Instant MBA*](https://www.amazon.co.uk/Instant-MBA-Business-Graduate-Brilliant-ebook/dp/B004INHHGA)
 

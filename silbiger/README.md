@@ -1,4 +1,4 @@
-## The 10 day MBA
+### The 10 day MBA
 
 **Steven Silbiger** [*The 10-Day MBA*](https://www.amazon.com/10-Day-MBA-step-step-18-Nov-2005/dp/B011T7K3L8)
 

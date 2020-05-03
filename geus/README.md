@@ -1,4 +1,4 @@
-## The Living Company
+### The Living Company
 
 **Arie de Geus** [*The Living Company*](https://www.amazon.co.uk/Living-Company-Learning-Longevity-Business/dp/1857881850/)
 
