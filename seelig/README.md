@@ -7,7 +7,7 @@
 *Break the rules*
 
 * **take** role, don't wait to be asked.
-* most rules are just recommandations.
+* most rules are just recommendations.
 * ask for forgiveness, not permission.
 
 The *rule of three*: You can only track 3 goals at a gime. Avoid shiny new directions.

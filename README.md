@@ -1,40 +1,48 @@
 # Personal Book Notes and Mindmaps
 
-## ÉT LIV, ÉN TID, ÉT MENNESKE
+## Life, Philosophy, Personal Development, Being responsible
+
+### ÉT LIV, ÉN TID, ÉT MENNESKE
 
 **Morten Albæk** [*ÉT LIV, ÉN TID, ÉT MENNESKE*](./albaek)
 
-## So Good They Can't Ignore You
+### So Good They Can't Ignore You
 
 **Cal Newport** [*So Good They Can't Ignore You*](./newport)
 
-## What I Wish I Knew When I Was 20
+### What I Wish I Knew When I Was 20
 
 **Tina Seelig** [*What I Wish I Knew When I Was 20*](./seelig)
 
-## The Living Company
-
-**Arie de Geus** [*The Living Company*](./geus)
-
-## Implementing Lean Software Development
-
-**Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
-
-## Makers: The new Industrial Revolution
-
-**Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
-
-## Knæk Talentkoden
+### Knæk Talentkoden
 
 **Rasmus Ankersen** [*Knæk Talentkoden*](./ankersen)
 
-## The 10 day MBA
+## Software Ddevelopment Processes
+
+### Implementing Lean Software Development
+
+**Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
+
+## Business
+
+### The Living Company
+
+**Arie de Geus** [*The Living Company*](./geus)
+
+### The 10 day MBA
 
 **Steven Silbiger** [*The 10-Day MBA*](./silbiger)
 
-## Instant MBA
+### Instant MBA
 
 **Nicolas Bate** [*Instant MBA*](./bate)
+
+## Society, the Bigger Picture
+
+### Makers: The new Industrial Revolution
+
+**Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
