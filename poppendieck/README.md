@@ -10,13 +10,13 @@ Give the customers more than they expect, which is only possible with a deep und
 
 #### The 7 principles
 
-1) Eliminate waste
-2) Build quality in - TDD, CI, fix bugs
-3) Create and capture knowledge
-4) Defer commitment - change plans as we get more knowledge
-5) Deliver fast
-6) Respect people
-7) Optimize the whole
+1. Eliminate waste
+2. Build quality in - TDD, CI, fix bugs
+3. Create and capture knowledge
+4. Defer commitment - change plans as we get more knowledge
+5. Deliver fast
+6. Respect people
+7. Optimize the whole
 
 #### Waste
 
