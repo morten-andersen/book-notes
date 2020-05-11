@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.inner {
-  width: 800px;
+.page-header {
+  padding: 0rem;
+  background-color: #0b4580;
+  background-image: linear-gradient(120deg, #155799, #0b4580);
 }
