@@ -6,7 +6,7 @@ Et par små nørdede foredrag jeg holdt for en 7-klasses elev i corona tiden i f
 
 En lille gennemgang af en gammel globus uden årstal for at tidsbestemme den. Det gav lidt viden om spændende fortidige lande som Østpakistan, Dahomey, kolonien Ifni og verdens næstmindste selvstændige stat Nauru.
 
-![Globus tidsbestemmelse](./globus/globus.pdf)
+* [Globus tidsbestemmelse](./globus/globus.pdf)
 
 #### Tidsmåling og kalender historie
 
@@ -14,4 +14,4 @@ Alskens spændende historiske oplysninger om hvorfor vores kalendre er som de he
 
 Det var inspireret af [Hjernekassen på P1 om skudår](https://www.dr.dk/radio/p1/hjernekassen-pa-p1/hjernekassen-pa-p1-2016-02-29)
 
-![Kalender historie](./kalender/kalender.pdf)
+* [Kalender historie](./kalender/kalender.pdf)
