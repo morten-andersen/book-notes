@@ -25,7 +25,7 @@ Notes to various books that made an impression.
 
 ## Various notes
 
-* [*Corona frikvarter*](./corona)
+* [*Corona frikvarter*](./corona) - Et par små nørdede foredrag jeg holdt for en 7-klasses elev i corona tiden i foråret 2020 da vi alle var hjemsendt fra skole og arbejde.
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
