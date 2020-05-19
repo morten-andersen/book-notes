@@ -9,7 +9,7 @@ Notes to various books that made an impression.
 * **Tina Seelig** [*What I Wish I Knew When I Was 20*](./seelig)
 * **Rasmus Ankersen** [*Knæk Talentkoden*](./ankersen)
 
-## Software Development Processes
+## Software Development
 
 * **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
 
@@ -22,6 +22,10 @@ Notes to various books that made an impression.
 ## Society, the Bigger Picture
 
 * **Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
+
+## Various notes
+
+* [*Corona frikvarter*](./corona)
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
