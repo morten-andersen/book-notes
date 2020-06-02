@@ -7,6 +7,8 @@ I den forbindelse lavede jeg et par cheatsheets til børnene:
 * [Python](./python-cheat-sheet.pdf)
 * [Pygame](./pygame-cheat-sheet.pdf)
 
+Jeg tog udgangspunkt i **Jason R. Briggs** [*Python for Kids*](http://jasonrbriggs.com/python-for-kids/) samt en masse online pygame resourcer.
+
 Et par af de programmer vi underviste børnene udfra vha. [Pygame](https://www.pygame.org/):
 
 * [step1_loop.py](./step1_loop.py) - et simpelt loop der renderer en rød bold.
@@ -19,7 +21,14 @@ Et par af de programmer vi underviste børnene udfra vha. [Pygame](https://www.p
 
 I forbindelse med afslutningerne inden ferierne lavede vi et lidt større spil med grafik og lyd over flere uger.
 
-* ![tank spil](./tank/tank.png) - et tank skyde spil.
-* ![jule afslutning](./xmas/xmas.png) - et jule spil - der er en screen capture af det her [xmas.ogv](./xmas/xmas.ogg).
+#### Tank spil
 
-Jeg tog udgangspunkt i **Jason R. Briggs** [*Python for Kids*](http://jasonrbriggs.com/python-for-kids/) samt en masse online pygame resourcer.
+Et tank skyde spil
+
+![tank spil](./tank/tank.png)
+
+#### Jule spil
+
+Et jule afslutnings spil - der er en screen capture af det her [xmas.ogv](./xmas/xmas.ogv).
+
+![jule afslutning](./xmas/xmas.png) -
