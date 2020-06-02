@@ -1,0 +1,20 @@
+https://openclipart.org
+	license: public domain - https://openclipart.org/share
+
+tank.png
+	https://openclipart.org/detail/97843/cartoon-tank-by-rg1024
+
+enemy_tank1.png
+	https://openclipart.org/detail/191706/toon-tank--by-firestorm200-191706
+
+enemy_tank2.png
+	https://openclipart.org/detail/191709/toon-tank-2-by-firestorm200-191709
+
+enemy_tank3.png
+	https://openclipart.org/detail/191802/cartoon-tank-by-firestorm200-191802
+
+helicopter.png
+	https://openclipart.org/detail/190981/helicopter-by-firestorm200-190981
+
+background.jpg
+	http://www.titanui.com/12927-vector-green-grass-background-01/

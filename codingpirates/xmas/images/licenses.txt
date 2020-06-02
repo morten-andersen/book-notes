@@ -1,0 +1,14 @@
+santa.png:
+	- license: Free for non-commercial use (Include link to authors website) 
+	- http://www.icondrawer.com/
+	- https://www.iconfinder.com/icons/40231/christmas_santa_icon#size=121
+
+ballx.png:
+	- license: Free for commercial use (Do not resell)
+	- http://www.doublejdesign.co.uk/
+	- https://www.iconfinder.com/iconsets/Xmas_Festives
+
+present.png:
+	- license: http://creativecommons.org/licenses/by-nc-nd/3.0/
+	- http://www.softicons.com/holidays-icons/christmas-dock-icons-by-chicho21net/xmas-gift-icon
+	
