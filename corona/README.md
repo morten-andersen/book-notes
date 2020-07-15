@@ -15,3 +15,7 @@ Alskens spændende historiske oplysninger om hvorfor vores kalendre er som de er
 Det var inspireret af [Hjernekassen på P1 om skudår](https://www.dr.dk/radio/p1/hjernekassen-pa-p1/hjernekassen-pa-p1-2016-02-29)
 
 * [Kalender historie](./kalender/kalender.pdf)
+
+En anden spændende kalender gennemgang på engelsk [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right). Indeholder blandt andet historien om hvordan Samoa i 2011 sprang en dag over da man flyttede over på den anden side af dato linien. Der er også historien om hvad UTC er en forkortelse for - faktisk ingenting, men et kompromis mellem engelsk og fransk. Der er også historien om hvordan Rusland kom for sent til OL i 1908, da man kørte efter den Julianske kalender indtil 1918 (som et af de sidste lande i Europa)
+
+Denne her side indeholder også en masse sjove kalender fakta [Your Calendrical Fallacy Is...](https://yourcalendricalfallacyis.com/)
