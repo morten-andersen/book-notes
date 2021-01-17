@@ -4,6 +4,7 @@ Notes to various books that made an impression.
 
 ## Life, Philosophy, Personal Development, Being responsible
 
+* **Jostein Gaarder** [*Sofies verden*](./gaarder)
 * **Morten Albæk** [*ÉT LIV, ÉN TID, ÉT MENNESKE*](./albaek)
 * **Cal Newport** [*So Good They Can't Ignore You*](./newport)
 * **Tina Seelig** [*What I Wish I Knew When I Was 20*](./seelig)
