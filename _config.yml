@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+defaults:
+  - scope:
+      path: ""
+    values:
+      image:
+        path: /assets/books.png
+        height: 640
+        width: 1280
