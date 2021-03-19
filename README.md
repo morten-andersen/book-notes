@@ -24,6 +24,10 @@ Notes to various books that made an impression.
 
 * **Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
 
+## Technical notes
+
+* [*Technical notes*](./technical) for various technical areas.
+
 ## Volunteer work - various notes
 
 * [*Volunteer work notes*](./volunteer) for various kids summer camps, teaching in programming and some presentations.
