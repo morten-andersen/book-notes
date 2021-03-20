@@ -2,8 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+  background-color: #22272e;
+}
 .page-header {
   padding: 0rem;
-  background-color: #0b4580;
-  background-image: linear-gradient(120deg, #155799, #0b4580);
+  background-color: #2d333b;
+  background-image: none;
+  color: lightgray;
 }
