@@ -4,6 +4,6 @@ defaults:
       path: ""
     values:
       image:
-        path: /assets/books.png
+        path: /assets/books.webp
         height: 640
         width: 1280

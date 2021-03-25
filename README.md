@@ -12,6 +12,10 @@ Notes to various books that made an impression.
 
 ## Software Development
 
+* **Joshua Bloch** *Effective Java* (CV 2012)
+* **Joshua Bloch & Neil Gafter** *Java Puzzlers*
+* **Stuart Dabbs Halloway** *Component Development for the Java Platform*
+* **Brian Goetz** *Java Concurrency in Practice*
 * **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
 
 ## Business
