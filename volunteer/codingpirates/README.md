@@ -4,8 +4,8 @@ I 2014-2015 underviste jeg som frivillig i [Coding Pirates](https://codingpirate
 
 I den forbindelse lavede jeg et par cheatsheets til børnene:
 
-[![Python cheat sheet](./python-cheat-sheet.png Python cheat sheet)](./python-cheat-sheet.pdf)
-[![Pygame cheat sheet](./pygame-cheat-sheet.png Pygame cheat sheet)](./pygame-cheat-sheet.pdf)
+[![Python cheat sheet](./python-cheat-sheet.png)](./python-cheat-sheet.pdf)
+[![Pygame cheat sheet](./pygame-cheat-sheet.png)](./pygame-cheat-sheet.pdf)
 
 Jeg tog udgangspunkt i **Jason R. Briggs** [*Python for Kids*](http://jasonrbriggs.com/python-for-kids/) samt en masse online pygame resourcer.
 
