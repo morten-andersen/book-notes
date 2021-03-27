@@ -29,6 +29,6 @@ Et tank skyde spil
 
 #### Jule spil
 
-Et jule afslutnings spil - der er en screen capture af det her [xmas.ogv](./xmas/xmas.ogv).
+Et jule afslutnings spil med faldende pakker og julekugler
 
-![jule afslutning](./xmas/xmas.png) -
+[![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.ogv) -
