@@ -1,4 +1,4 @@
-# Volunteer work - various notes
+## Volunteer work - various notes
 
 * [*Corona frikvarter*](./corona) - Et par små nørdede foredrag jeg holdt for en 7-klasses elev i corona tiden i foråret 2020 da vi alle var hjemsendt fra skole og arbejde.
 * [*Nørdcamp*](./noerd) - Beskrivelse af en række naturvidenskabelige aktiviteter jeg var med til at arrangere til nogen sommercamps for børn i 2014.
