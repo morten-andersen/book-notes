@@ -12,6 +12,7 @@ Notes to various books that made an impression.
 
 ### Software Development
 
+* **Paolo Perrotta** [*Programming Machine Learning*](./perrotta)
 * **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
 * [*Java book notes*](./java) for various programming books.
 
