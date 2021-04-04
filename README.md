@@ -14,7 +14,7 @@ Notes to various books that made an impression.
 
 * **Paolo Perrotta** [*Programming Machine Learning*](./perrotta)
 * **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
-* [*Java book notes*](./java) for various programming books.
+* [**Java book notes**](./java) for various programming books.
 
 ### Business
 
@@ -28,7 +28,7 @@ Notes to various books that made an impression.
 
 ### Volunteer work - various notes
 
-* [*Volunteer work notes*](./volunteer) for various kids summer camps, teaching in programming and some presentations.
+* [**Volunteer work notes**](./volunteer) for various kids summer camps, teaching in programming and some presentations.
 
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
