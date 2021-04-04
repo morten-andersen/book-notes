@@ -8,8 +8,8 @@ Hands on introduction to machine learning with focus on *supervised learning* an
 * **GAN - Generative Adversarial Network** (2014)- for image *creation*
 * **RNN - Recurrent Neural Network** - perfect for processing of language and sentences where "context" / "memory" is required
 
-![Programming Machine Learning - 1](machine-learning-2020_1.jpg)
-![Programming Machine Learning - 2](machine-learning-2020_2.jpg)
+[![Programming Machine Learning - 1](machine-learning-2020_1.jpg "Programming Machine Learning - 1")](machine-learning-2020_1.jpg)
+[![Programming Machine Learning - 2](machine-learning-2020_2.jpg "Programming Machine Learning - 2")](machine-learning-2020_2.jpg)
 
 #### Software
 
