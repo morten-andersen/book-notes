@@ -8,4 +8,4 @@
 
 **Drop karriere planen** - vær *opgave* ambitiøs istedetfor *karriere* ambitiøs.
 
-![Knæk Talentkoden](knæk-talent-koden-2012.jpg)
+[![Knæk Talentkoden](knæk-talent-koden-2012.jpg "Knæk Talentkoden")](knæk-talent-koden-2012.jpg)

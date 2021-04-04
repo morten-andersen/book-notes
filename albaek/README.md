@@ -8,4 +8,4 @@ Om livets pauser, om at stoppe op og tænke.
 
 *Et ureflekteret livt, er ikke et liv* - Sokrates
 
-![ÉT LIV, ÉN TID, ÉT MENNESKE](albæk-en-tid-et-liv-2018-12.jpg)
+[![ÉT LIV, ÉN TID, ÉT MENNESKE](albæk-en-tid-et-liv-2018-12.jpg "ÉT LIV, ÉN TID, ÉT MENNESKE")](albæk-en-tid-et-liv-2018-12.jpg)

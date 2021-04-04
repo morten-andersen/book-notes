@@ -12,4 +12,4 @@ About *background research*, being exposed to one new thing every week.
 
 About *exploratory projects*, the *little bets*, i.e. small projects with a deadline.
 
-![So Good They Can't Ignore You](so-good-they-cant-ignore-you-2019-03.jpg)
+[![So Good They Can't Ignore You](so-good-they-cant-ignore-you-2019-03.jpg "So Good They Can't Ignore You")](so-good-they-cant-ignore-you-2019-03.jpg)

@@ -11,4 +11,4 @@ Introduction to the *makers* econonomy of the 21'st century.
 * [Kickstarter](https://www.kickstarter.com/)
 * [MakerBot Thingiverse](https://www.thingiverse.com/) - 3D printing recipes
 
-![Makers](makers-2014-08-09.jpg)
+[![Makers](makers-2014-08-09.jpg "Makers")](makers-2014-08-09.jpg)

@@ -18,4 +18,4 @@ Fra kapital til videnssamfund. Eksempler på kapital svage, men videnstunge virk
 * konsulent
 * reklame
 
-![The Living Company](den-levende-virksomhed-2013-12.jpg)
+[![The Living Company](den-levende-virksomhed-2013-12.jpg "The Living Company")](den-levende-virksomhed-2013-12.jpg)

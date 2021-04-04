@@ -27,8 +27,12 @@ Et tank skyde spil
 
 ![tank spil](./tank/tank.png)
 
+Kilde kode [tank_full.py](./tank/tank_full.py)
+
 #### Jule spil
 
 Et jule afslutnings spil med faldende pakker og julekugler
 
-[![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.ogv) -
+[![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.ogv)
+
+Kilde kode [xmas_demo_full.py](./xmas/xmas_demo_full.py)

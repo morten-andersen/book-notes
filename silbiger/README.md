@@ -4,4 +4,4 @@
 
 *Porter's Five Forces analysis*
 
-![The 10 day MBA](10-day-mba-2013-05.jpg)
+[![The 10 day MBA](10-day-mba-2013-05.jpg "The 10 day MBA")](10-day-mba-2013-05.jpg)

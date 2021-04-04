@@ -35,5 +35,5 @@ Keeping track of knowledge through the *A3* report (e.g. mindmap and collection 
 
 *Relational contracts* - focus on *howto work together* vs. *what to deliver*
 
-![Implementing Lean Software Development - 1](lean-software-development-2013-07-27_1.jpg)
-![Implementing Lean Software Development - 2](lean-software-development-2013-07-27_2.jpg)
+[![Implementing Lean Software Development - 1](lean-software-development-2013-07-27_1.jpg "Implementing Lean Software Development - 1")](lean-software-development-2013-07-27_1.jpg)
+[![Implementing Lean Software Development - 2](lean-software-development-2013-07-27_2.jpg "Implementing Lean Software Development - 2")](lean-software-development-2013-07-27_2.jpg)

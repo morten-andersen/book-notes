@@ -22,5 +22,5 @@ The *rule of three*: You can only track 3 goals at a gime. Avoid shiny new direc
 
 **Be a Mensch**: *How will you tell about this decision later*
 
-![What I Wish I Knew When I Was 20 - 1](what-I-wish-I-knew-2015-02-08_1.jpg)
-![What I Wish I Knew When I Was 20 - 2](what-I-wish-I-knew-2015-02-08_2.jpg)
+[![What I Wish I Knew When I Was 20 - 1](what-I-wish-I-knew-2015-02-08_1.jpg "What I Wish I Knew When I Was 20 - 1")](what-I-wish-I-knew-2015-02-08_1.jpg)
+[![What I Wish I Knew When I Was 20 - 2](what-I-wish-I-knew-2015-02-08_2.jpg "What I Wish I Knew When I Was 20 - 2")](what-I-wish-I-knew-2015-02-08_2.jpg)
