@@ -23,16 +23,12 @@ I forbindelse med afslutningerne inden ferierne lavede vi et lidt større spil m
 
 #### Tank spil
 
-Et tank skyde spil
+Et tank skyde spil ([tank_full.py](./tank/tank_full.py))
 
 ![tank spil](./tank/tank.png)
 
-Kilde kode [tank_full.py](./tank/tank_full.py)
-
 #### Jule spil
 
-Et jule afslutnings spil med faldende pakker og julekugler
+Et jule afslutnings spil med faldende pakker og julekugler ([xmas_demo_full.py](./xmas/xmas_demo_full.py))
 
 [![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.ogv)
-
-Kilde kode [xmas_demo_full.py](./xmas/xmas_demo_full.py)
