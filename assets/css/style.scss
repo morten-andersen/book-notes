@@ -14,6 +14,9 @@ body {
 .project-tagline {
   font-variant: small-caps;
 }
+.main-content>h1, .main-content>h2, .main-content>h3, .main-content>h4, {
+  font-variant: small-caps;
+}
 .main-content>ul, .main-content>ol {
   border: 1px solid #606c71;
   border-radius:  10px;
