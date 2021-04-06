@@ -30,7 +30,6 @@ Notes to various books that made an impression.
 
 * [**Volunteer work notes**](./volunteer) for various kids summer camps, teaching in programming and some presentations.
 
----
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
