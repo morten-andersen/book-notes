@@ -1,4 +1,4 @@
-## Personal Book Notes & Mindmaps
+## ⚙️ Personal Book Notes & Mindmaps
 
 Notes to various books that made an impression.
 
