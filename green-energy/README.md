@@ -1,6 +1,6 @@
 ### Klimamål 2030 - Grøn Omstilling
 
-En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grønne omstilling
+En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grønne omstilling.
 
 [![Klimamål 2030 - Grøn Omstilling](green-energy-2020.jpg "Klimamål 2030 - Grøn Omstilling")](green-energy-2020.jpg)
 
