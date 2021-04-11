@@ -22,7 +22,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 ### Society, the Bigger Picture
 
-* [**Green Energy Climate Change notes**](./green-energy)
+* [**Green Energy - Climate Change notes**](./green-energy)
 * **Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
 
 ### Volunteer work - various notes
