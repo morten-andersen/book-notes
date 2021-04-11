@@ -2,7 +2,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 ### Life, Philosophy, Personal Development, Being responsible
 
-*How we spend our days is, of course, how we spend our lives.* -- **Annie Dillard**
+💜 *How we spend our days is, of course, how we spend our lives.* 💜 -- **Annie Dillard**
 
 * **Jostein Gaarder** [*Sofies verden*](./gaarder)
 * **Morten Albæk** [*ÉT LIV, ÉN TID, ÉT MENNESKE*](./albaek)
