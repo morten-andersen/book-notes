@@ -1,5 +1,3 @@
-## ⚙️ Personal Book Notes & Mindmaps
-
 Notes to various books that made an impression.
 
 ### Life, Philosophy, Personal Development, Being responsible

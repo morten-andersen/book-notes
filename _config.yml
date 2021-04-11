@@ -3,6 +3,7 @@ defaults:
   - scope:
       path: ""
     values:
+      title: "⚙️ Morten Andersen ⚙️ Book Notes & Mindmaps"
       image:
         path: /assets/books.jpg
         height: 640
