@@ -1,4 +1,4 @@
-Notes to various books that made an impression.
+Notes on books I read, talks I watch, articles I study, and papers I love
 
 ### Life, Philosophy, Personal Development, Being responsible
 
