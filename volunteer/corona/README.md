@@ -18,6 +18,6 @@ Det var inspireret af [Hjernekassen på P1 om skudår](https://www.dr.dk/radio/p
 
 En anden spændende kalender gennemgang på engelsk [UTC is enough for everyone ...right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right). Indeholder blandt andet historien om hvordan Samoa i 2011 sprang en dag over da man flyttede over på den anden side af dato linien. Der er også historien om hvad UTC er en forkortelse for - faktisk ingenting, men et kompromis mellem engelsk og fransk. Der er også historien om hvordan Rusland kom for sent til OL i 1908, da man kørte efter den Julianske kalender indtil 1918 (som et af de sidste lande i Europa)
 
-Historien om indførelse af central tid i Danmark [Hvornår fik vi samme tid på tværs af hele Danmark?] (https://videnskab.dk/kultur-samfund/hvornaar-fik-vi-samme-tid-paa-tvaers-af-hele-danmark). Om det første ur i Danmark (i Ribe) og om dengang hver by kun havde et ur.
+Historien om indførelse af central tid i Danmark [Hvornår fik vi samme tid på tværs af hele Danmark?](https://videnskab.dk/kultur-samfund/hvornaar-fik-vi-samme-tid-paa-tvaers-af-hele-danmark). Om det første ur i Danmark (i Ribe) og om dengang hver by kun havde et ur.
 
 Denne her side indeholder også en masse sjove kalender fakta [Your Calendrical Fallacy Is...](https://yourcalendricalfallacyis.com/)
