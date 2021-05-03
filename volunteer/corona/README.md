@@ -20,4 +20,6 @@ En anden spændende kalender gennemgang på engelsk [UTC is enough for everyone 
 
 Historien om indførelse af central tid i Danmark [Hvornår fik vi samme tid på tværs af hele Danmark?](https://videnskab.dk/kultur-samfund/hvornaar-fik-vi-samme-tid-paa-tvaers-af-hele-danmark). Om det første ur i Danmark (i Ribe) og om dengang hver by kun havde et ur.
 
+En kort humoristisk gennemgang af tidszoner [The Map Men - The world's silliest time zones](https://www.youtube.com/watch?v=NBDaLK6EjwI).
+
 Denne her side indeholder også en masse sjove kalender fakta [Your Calendrical Fallacy Is...](https://yourcalendricalfallacyis.com/)
