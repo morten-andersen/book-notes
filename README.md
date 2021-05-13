@@ -31,6 +31,9 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 * [**Volunteer work notes**](./volunteer) for various kids summer camps, teaching in programming and some presentations.
 
+### History / Natural Science
+
+* [**Natural Science & History Notes**](./naturalscience)
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
