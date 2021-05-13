@@ -20,7 +20,7 @@ En anden spændende kalender gennemgang på engelsk [UTC is enough for everyone 
 
 Historien om indførelse af central tid i Danmark [Hvornår fik vi samme tid på tværs af hele Danmark?](https://videnskab.dk/kultur-samfund/hvornaar-fik-vi-samme-tid-paa-tvaers-af-hele-danmark). Om det første ur i Danmark (i Ribe) og om dengang hver by kun havde et ur.
 
-På den nedlagte [banegård i Rudkøbing](https://da.wikipedia.org/wiki/Langelandsbanen) hænger såvidt vides Danmarks eneste 24 timers ur (Rudkøbing er forøvrigt H.C.Ørsteds fødeby)
+På den nedlagte [banegård i Rudkøbing](https://da.wikipedia.org/wiki/Langelandsbanen) hænger såvidt vides Danmarks eneste [24 timers ur](https://en.wikipedia.org/wiki/24-hour_analog_dial) (Rudkøbing er forøvrigt H.C.Ørsteds fødeby)
 
 ![Rudkøbings 24 timers ur](./rudkoebing-watch.jpg)
 [![Historien om 24 timers uret](./rudkoebing-watch-info-small.jpg "Historien om 24 timers uret")](./rudkoebing-watch-info-large.jpg)
