@@ -17,6 +17,11 @@ Hands on introduction to machine learning with focus on *supervised learning* an
 * [Keras](https://keras.io/) simple API on top of Tensorflow
 * [Tensorflow](https://www.tensorflow.org/) - machine learning library  developed by Google
 * [PyTorch](https://pytorch.org/) - machine learning library  developed by Facebook
+* [Teachable Machine](https://teachablemachine.withgoogle.com/) - can be used for quick'n'dirty online training of a model that can be exported to TensorFlow
+
+#### Hardware
+
+* [Coral](https://www.coral.ai/) - Google's offering of small IoT components with AI support out-of-the box.
 
 #### Setup using Miniconda
 
