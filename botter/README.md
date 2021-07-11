@@ -73,7 +73,8 @@ An introduction to 25 no-code tools. [Nocode HQ](https://nocodehq.com/tools) con
 * application builder for workflows, notes, kanban boars, wikis, etc.
 * modified markdown support.
 * an all-in-one workspace for note-taking, knowledge and data management, and project and task management.
-* has native apps as well as we support.
+* free for personal use.
+* has native apps as well as web support.
 * can be used for knowledge and project management, individually or for a team.
 * can also be used for building entire "universes", like an intranet.
 * alternatives
