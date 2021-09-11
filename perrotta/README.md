@@ -18,6 +18,7 @@ Hands on introduction to machine learning with focus on *supervised learning* an
 * [Tensorflow](https://www.tensorflow.org/) - machine learning library  developed by Google
 * [PyTorch](https://pytorch.org/) - machine learning library  developed by Facebook
 * [Teachable Machine](https://teachablemachine.withgoogle.com/) - can be used for quick'n'dirty online training of a model that can be exported to TensorFlow
+* [scikit-learn](https://scikit-learn.org) - an alternative open source ML library. The documentation about [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html#ml-map) contains a very informative interactive "cheat-sheet"
 
 #### Hardware
 
