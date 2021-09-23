@@ -11,8 +11,10 @@
 [LinkedIn post on the railroad track width](https://www.linkedin.com/posts/taro-kuusiholma-042b105_the-us-standard-railroad-gauge-distance-activity-6839409818554515456-FFhC)
 
 > The US standard railroad gauge (distance between the rails) is 4 feet, 8.5 inches. That's an exceedingly odd number. Why was that gauge used?
-Well, because that's the way they built them in England, and English engineers designed the first US railroads. Why did the English build them like that?
-Because the first rail lines were built by the same people who built the wagon tramways, and that's the gauge they used. So, why did 'they' use that gauge then?
+
+> Well, because that's the way they built them in England, and English engineers designed the first US railroads. Why did the English build them like that?
+
+> Because the first rail lines were built by the same people who built the wagon tramways, and that's the gauge they used. So, why did 'they' use that gauge then?
 Because the people who built the tramways used the same jigs and tools that they had used for building wagons, which used that same wheel spacing. Why did the wagons have that particular odd wheel spacing?
 Well, if they tried to use any other spacing, the wagon wheels would break more often on some of the old, long distance roads in England . You see, that's the spacing of the wheel ruts. So who built those old rutted roads?
 Imperial Rome built the first long distance roads in Europe (including England ) for their legions. Those roads have been used ever since.
