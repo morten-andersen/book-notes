@@ -7,3 +7,5 @@ defaults:
         path: /assets/books.jpg
         height: 640
         width: 1280
+plugins:
+  - jekyll-sitemap
