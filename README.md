@@ -12,6 +12,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 ### Software Development
 
+* **David Thomas & Andrew Hunt** [*The Pragmatic Programmer*](./pragmatic)
 * **Paolo Perrotta** [*Programming Machine Learning*](./perrotta)
 * **Mary & Tom Poppendieck** [*Implementing Lean Software Development*](./poppendieck)
 * [**Java book notes**](./java) for various programming books.
