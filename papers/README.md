@@ -10,7 +10,8 @@
 #### Cryptography
 
 * **Whitfield Diffie and Martin E. Hellman, 1976** [New Directions in Cryptography](https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf)
-* [EPC342-08 - Guidelines on cryptographic algorithms usage and key management](https://www.europeanpaymentscouncil.eu/document-library/guidance-documents/guidelines-cryptographic-algorithms-usage-and-key-management) - in rev. 10 in 2021
+* [EPC342-08 - Guidelines on cryptographic algorithms usage and key management](https://www.europeanpaymentscouncil.eu/document-library/guidance-documents/guidelines-cryptographic-algorithms-usage-and-key-management)
+  * rev. 10 in 2021
   * contains recommendations on algorithms and key sizes
 * **Jim Waldo, 2019** [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 * **Thomas Wu, 2002** [SRP-6: Improvements and Refinements to the Secure Remote Password Prototol](http://srp.stanford.edu/doc.html)
