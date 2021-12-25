@@ -30,3 +30,7 @@
 
 * 🔗 [Reading List for the mindful Software Engineer](https://gerlacdt.github.io/posts/classic-papers/)
 * 🔗 [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+
+#### Other
+
+* [Personnummeret i CPR-systemet](https://www.cpr.dk/media/17534/personnummeret-i-cpr.pdf)
