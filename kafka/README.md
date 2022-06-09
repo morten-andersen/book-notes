@@ -1,7 +1,6 @@
 ### Kafka - The Definitive Guide, ed. 2
 
-[*Kafka: The Definitive Guide, Real-Time Data and Stream Processing at
-Scale*](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/)
+[*Kafka: The Definitive Guide, Real-Time Data and Stream Processing at Scale*](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/)
 
 #### Chapter 1. **Meet Kafka** - Components and Terms
 
