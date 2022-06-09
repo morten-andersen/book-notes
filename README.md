@@ -18,6 +18,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 * [**Java book notes**](./java) for various programming books.
 * [**Software Development Papers**](./papers)
 * **Jacob Bøtter** [NO-CODE](./botter)
+* [**Kafka - The Definitive Guide, ed. 2**](./kafka)
 
 ### Business
 
