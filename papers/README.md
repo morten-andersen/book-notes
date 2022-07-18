@@ -1,5 +1,7 @@
 ### Software Development Papers
 
+* 🔗 [Spotlight on ACM A.M. Turing Laureates](https://www.acm.org/turing-award-50/spotlight-on-turing-laureates)
+
 #### Classical Papers
 
 * **Leslie Lamport, 1978** [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
