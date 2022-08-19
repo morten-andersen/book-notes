@@ -35,6 +35,10 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 * [**Volunteer work notes**](./volunteer) for various kids summer camps, teaching in programming and some presentations.
 
+### Mathematics
+
+* [**Mathematics notes**](./mathematics) from my high school time in the early 90's. Programs for the Hewlett-Packard [HP-20S](https://en.wikipedia.org/wiki/HP-20S) scientific calculator.
+
 ### History / Natural Science
 
 * [**Natural Science & History Notes**](./naturalscience)
