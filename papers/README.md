@@ -38,6 +38,12 @@
 
 * [JSR-133: Java Memory Model and Thread Specification, 2004](https://www.cs.umd.edu/~pugh/java/memoryModel/jsr133.pdf)
 
+#### Quantum Computing
+
+* Overview article of the state in 2022 [Assessing the Quantum-Computing Landscape](https://cacm.acm.org/magazines/2022/10/264854-assessing-the-quantum-computing-landscape/fulltext). Published in Communications of the ACM, October 2022, Vol. 65 No. 10, Pages 57-65.
+  * currently most advanced quantum computers has less than 100 qubits. A general purpose computer would require approximately one million qubits to be useful. That is at least a decade away.
+  * the different cloud computing platforms are beginning to offer access to quantum computers - one of these is [AWS Braket](https://aws.amazon.com/braket/). Most of these are programmed using tools based on Python.
+
 #### Collections of Papers
 
 * 🔗 [Reading List for the mindful Software Engineer](https://gerlacdt.github.io/posts/classic-papers/)
