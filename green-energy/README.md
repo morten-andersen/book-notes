@@ -6,7 +6,15 @@ En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grøn
 
 #### Batteri teknologi
 
-* MIT Technology Review (January 2023) - [What’s next for batteries](https://www.technologyreview.com/2023/01/04/1066141/whats-next-for-batteries/)
+MIT Technology Review (January 2023) - [What’s next for batteries](https://www.technologyreview.com/2023/01/04/1066141/whats-next-for-batteries/)
+
+#### Brint / Hydrogen
+
+MIT Technology Review (February 2023) - [When hydrogen will help climate change—and when it won't](https://www.technologyreview.com/2023/02/23/1069086/when-hydrogen-will-help-climate-change-and-when-it-wont/)
+
+*The Hydrogen Rainbow* - hvor bæredygtig brint er afhænger af produktions formen. Man kan faktisk udvinde hydrogen direkte fra undergrunden ligesom olie - det ser faktisk ud som om det er en *renewable* resource da det skyldes en kemisk reaktion hvor vand i nogle områder reagerer med klipperne i undergrunden.
+
+![The Hydrogen Rainbow](hydrogen-rainbow.png "The Hydrogen Rainbow")]
 
 #### Resourcer
 
