@@ -15,7 +15,7 @@ body {
   position: relative;
   background-size: cover;
   @include large {
-    border-radius: 0% 0% 20% 20%;
+    border-radius: 0% 0% 10% 10%;
   }
   @include medium {
     border-radius: 0% 0% 10% 10%;
