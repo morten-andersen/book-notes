@@ -39,6 +39,12 @@ MIT Technology Review (February 2023) - [When hydrogen will help climate changeâ
 
 ![The Hydrogen Rainbow](hydrogen-rainbow.png "The Hydrogen Rainbow")
 
+#### Carbon Pricing
+
+Interessant LI post af [Danny Kusuma](https://www.linkedin.com/posts/danny-kusuma_carbonemissions-carbonpricing-renewableenergy-activity-7106096256334143488-HxZW) om carbon pris sammenholdt med GDP.
+
+[![Carbon Pricing around the World](carbon-price.jpg "Carbon Pricing around the World")](carbon-price.jpg)
+
 #### Resourcer
 
 * Zetland's [5 minutters forklaring](https://youtu.be/BUn00A3vgSQ) om **Power-to-X**
