@@ -2,7 +2,17 @@
 
 En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grønne omstilling.
 
-[![Klimamål 2030 - Grøn Omstilling](green-energy-2020.jpg "Klimamål 2030 - Grøn Omstilling")](green-energy-2020.jpg)
+[![Klimamål 2030 - Grøn Omstilling](green-energy-2020.jpg "Klimamål 2030 - Grøn Omstilling")](green-
+energy-2020.jpg)
+
+#### Vindmølle parker
+
+[Danske havvind mølle parker](https://ens.dk/ansvarsomraader/vindmoeller-paa-hav/ansoegte-og-etablerede-havvindmoelleparker)
+
+[![Danske havvind mølle parker - 2022](havvind-202206.jpg "Danske havvind mølle parker - 2022")](havvind-202206.jpg)
+
+* [Vattenfall's power plants](https://powerplants.vattenfall.com/)
+* [Ørsted's renewable energy sites](https://orsted.com/en/what-we-do/renewable-energy-solutions)
 
 #### Batteri teknologi
 
