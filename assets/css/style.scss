@@ -14,7 +14,15 @@ body {
   background-repeat: no-repeat;
   position: relative;
   background-size: cover;
-  border-radius: 0% 0% 20% 20%;
+  @include large {
+    border-radius: 0% 0% 20% 20%;
+  }
+  @include medium {
+    border-radius: 0% 0% 10% 10%;
+  }
+  @include small {
+    border-radius: 0% 0% 5% 5%;
+  }
   color: black;
 }
 .project-name {
