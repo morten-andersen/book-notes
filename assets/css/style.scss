@@ -69,6 +69,13 @@ body {
 .site-footer {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  @include large {
+    padding-top: 0rem;
+    position: fixed;
+    bottom: 0;
+    width: 52rem;
+    background-color: #22272e;
+  }
 }
 .site-footer-owner {
   float: right;
