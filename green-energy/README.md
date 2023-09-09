@@ -7,12 +7,25 @@ energy-2020.jpg)
 
 #### Vindmølle parker
 
-[Danske havvind mølle parker](https://ens.dk/ansvarsomraader/vindmoeller-paa-hav/ansoegte-og-etablerede-havvindmoelleparker)
+[Danske havvind-mølle parker](https://ens.dk/ansvarsomraader/vindmoeller-paa-hav/ansoegte-og-etablerede-havvindmoelleparker)
 
-[![Danske havvind mølle parker - 2022](havvind-202206.jpg "Danske havvind mølle parker - 2022")](havvind-202206.jpg)
+[![Danske havvind-mølle parker - 2022](havvind-202206.jpg "Danske havvind-mølle parker - 2022")](havvind-202206.jpg)
 
 * [Vattenfall's power plants](https://powerplants.vattenfall.com/)
 * [Ørsted's renewable energy sites](https://orsted.com/en/what-we-do/renewable-energy-solutions)
+* [WindEurope - European Offshore Wind Farms Map](https://windeurope.org/intelligence-platform/product/european-offshore-wind-farms-map-public/)
+
+#### EMODnet [European Marine Observation and Data Network](https://emodnet.ec.europa.eu/en)
+
+[Kort over marine aktiviter](https://emodnet.ec.europa.eu/geoviewer/#!/).
+
+Se fx. antal havvind-mølle parker
+
+[![Human Activities -> Energy -> Wind Farms](europe-windfarms.png "Human Activities -> Energy -> Wind Farms")](europe-windfarms.png)
+
+I modsætning til antal bore huller
+
+[![Human Activities -> Oil and Gas -> Boreholes](europe-boreholes.png "Human Activities -> Oil and Gas -> Boreholes")](europe-boreholes.png)
 
 #### Batteri teknologi
 
