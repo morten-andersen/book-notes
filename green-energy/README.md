@@ -37,7 +37,7 @@ MIT Technology Review (February 2023) - [When hydrogen will help climate change�
 
 *The Hydrogen Rainbow* - hvor bæredygtig brint er afhænger af produktions formen. Man kan faktisk udvinde hydrogen direkte fra undergrunden ligesom olie - det ser faktisk ud som om det er en *renewable* resource da det skyldes en kemisk reaktion hvor vand i nogle områder reagerer med klipperne i undergrunden.
 
-![The Hydrogen Rainbow](hydrogen-rainbow.png "The Hydrogen Rainbow")]
+![The Hydrogen Rainbow](hydrogen-rainbow.png "The Hydrogen Rainbow")
 
 #### Resourcer
 
