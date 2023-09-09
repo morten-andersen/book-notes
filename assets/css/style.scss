@@ -9,7 +9,7 @@ body {
 .page-header {
   padding: 5rem;
   background-color: #22272e;
-  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("/assets/books.webp");
+  background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url("/assets/books.webp");
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
@@ -19,7 +19,7 @@ body {
 }
 .project-name {
   font-variant: small-caps;
-  text-shadow: 2px 2px 10px white;
+  text-shadow: 2px 2px 10px darkgray;
   @include large {
     font-size: 5rem;
   }
@@ -32,9 +32,15 @@ body {
   margin-bottom: 0rem;
   padding-bottom: 1rem;
   font-variant: small-caps;
-  text-shadow: 2px 2px 10px white;
+  text-shadow: 2px 2px 10px darkgray;
   @include large {
     font-size: 1.5rem;
+  }
+  @include medium {
+    font-size: 1.2rem;
+  }
+  @include small {
+    font-size: 1.2rem;
   }
 }
 .main-content {
