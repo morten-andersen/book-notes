@@ -7,15 +7,34 @@ body {
   color: #adbac7;
 }
 .page-header {
-  padding: 0rem;
-  background-color: #2d333b;
-  background-image: none;
-  color: lightgray;
+  padding: 5rem;
+  background-image: url('/assets/books.webp');
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  border-radius: 0% 0% 20% 20%;
+  color: black;
+}
+.project-name {
+  font-variant: small-caps;
+  text-shadow: 2px 2px 10px white;
+  @include large {
+    font-size: 5rem;
+  }
+}
+.page-header>.btn {
+  display: none;
 }
 .project-tagline {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
+  padding-bottom: 1rem;
   font-variant: small-caps;
+  text-shadow: 2px 2px 10px white;
+  @include large {
+    font-size: 1.5rem;
+  }
 }
 .main-content {
   padding-top: 1rem;
