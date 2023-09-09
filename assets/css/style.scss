@@ -9,7 +9,7 @@ body {
 .page-header {
   padding: 5rem;
   background-color: #22272e;
-  background-image: linear-gradient( rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3) ), url("/assets/books.webp")
+  background-image: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url("/assets/books.webp");
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
