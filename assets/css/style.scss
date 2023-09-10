@@ -32,7 +32,7 @@ body {
 }
 .project-name {
   font-variant: small-caps;
-  text-shadow: 0px 0px 10px darkgray;
+  text-shadow: 0px 0px 10px white;
   @include large {
     font-size: 5rem;
   }
@@ -45,7 +45,7 @@ body {
   margin-bottom: 0rem;
   padding-bottom: 1rem;
   font-variant: small-caps;
-  text-shadow: 0px 0px 10px black;
+  text-shadow: 0px 0px 10px white;
   @include large {
     font-size: 1.5rem;
   }
