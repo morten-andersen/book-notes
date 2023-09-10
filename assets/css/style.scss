@@ -32,7 +32,7 @@ body {
 }
 .project-name {
   font-variant: small-caps;
-  text-shadow: 0px px 10px darkgray;
+  text-shadow: 0px 0px 10px darkgray;
   @include large {
     font-size: 5rem;
   }
