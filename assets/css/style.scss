@@ -17,8 +17,6 @@ body {
     padding: 5rem;
     border-radius: 0% 0% 10% 10%;
     max-height: 22rem;
-    position: fixed;
-    width: 100%;
   }
   @include medium {
     border-radius: 0% 0% 10% 10%;
@@ -54,12 +52,6 @@ body {
   }
   @include small {
     font-size: 1.1rem;
-  }
-}
-.main-content {
-  padding-top: 1rem;
-  @include large {
-    padding-top: 22rem;
   }
 }
 .main-content>h1, .main-content>h2, .main-content>h3, .main-content>h4, {
