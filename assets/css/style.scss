@@ -6,6 +6,9 @@ body {
   background-color: #22272e;
   color: #adbac7;
 }
+a {
+  color: #068de9;
+}
 .page-header {
   background-color: #22272e;
   background-image: linear-gradient(rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2)), url("/assets/books.webp");
@@ -57,6 +60,7 @@ body {
 .main-content>h1, .main-content>h2, .main-content>h3, .main-content>h4, {
   font-variant: small-caps;
   font-weight: bold;
+  color: #1e6bb8;
 }
 .main-content>ul, .main-content>ol {
   border: 1px solid #606c71;
