@@ -15,6 +15,22 @@ energy-2020.jpg)
 * [Ørsted's renewable energy sites](https://orsted.com/en/what-we-do/renewable-energy-solutions)
 * [WindEurope - European Offshore Wind Farms Map](https://windeurope.org/intelligence-platform/product/european-offshore-wind-farms-map-public/)
 
+#### Energi historier
+
+##### South Australia
+
+[![South Australia - 2023](south-australia.webp "South Australia - 2023")](south-australia.webp)
+
+*[South Australia grid operates at 99.8 per cent wind and solar over past seven days](https://reneweconomy-com-au.cdn.ampproject.org/c/s/reneweconomy.com.au/south-australia-grid-operates-at-99-8-per-cent-wind-and-solar-over-past-seven-days/amp/)*
+
+Hvoredan South Australia har opbygget et elsystem hvor de ovre længere perioder kører med 100% grøn energi fra udelukkende vind og sol.
+
+##### Uruguay
+
+*[Uruguay’s green power revolution: rapid shift to wind shows the world how it’s done](https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/dec/27/uruguays-green-power-revolution-rapid-shift-to-wind-shows-the-world-how-its-done)*
+
+Historien om hvordan Uruguay på 20 år er gået fra 0% grøn energi til idag at have et netværk hvor op imod 90-95% af deres strøm idag er grøn.
+
 #### EMODnet [European Marine Observation and Data Network](https://emodnet.ec.europa.eu/en)
 
 [Kort over marine aktiviter](https://emodnet.ec.europa.eu/geoviewer/#!/).
