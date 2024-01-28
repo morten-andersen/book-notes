@@ -27,7 +27,7 @@ Hvoredan South Australia har opbygget et elsystem hvor de ovre længere perioder
 
 ##### Uruguay
 
-*[Uruguay’s green power revolution: rapid shift to wind shows the world how it’s done](https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/global-development/2023/dec/27/uruguays-green-power-revolution-rapid-shift-to-wind-shows-the-world-how-its-done)*
+*[Uruguay’s green power revolution: rapid shift to wind shows the world how it’s done](https://www.theguardian.com/global-development/2023/dec/27/uruguays-green-power-revolution-rapid-shift-to-wind-shows-the-world-how-its-done)*
 
 Historien om hvordan Uruguay på 20 år er gået fra 0% grøn energi til idag at have et netværk hvor op imod 90-95% af deres strøm idag er grøn.
 
