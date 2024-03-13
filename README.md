@@ -5,6 +5,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 💜 *How we spend our days is, of course, how we spend our lives* 💜 -- **Annie Dillard**
 
 * **Jostein Gaarder** [*Sofies verden*](./gaarder)
+* **Jostein Gaarder** [*Det er os, der er her nu - En livsfilosofi*](./gaarder-2023)
 * **Morten Albæk** [*ÉT LIV, ÉN TID, ÉT MENNESKE*](./albaek)
 * **Cal Newport** [*So Good They Can't Ignore You*](./newport)
 * **Tina Seelig** [*What I Wish I Knew When I Was 20*](./seelig)
