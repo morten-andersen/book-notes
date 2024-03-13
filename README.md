@@ -9,6 +9,7 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 * **Morten Albæk** [*ÉT LIV, ÉN TID, ÉT MENNESKE*](./albaek)
 * **Cal Newport** [*So Good They Can't Ignore You*](./newport)
 * **Tina Seelig** [*What I Wish I Knew When I Was 20*](./seelig)
+* **Soulaima Gourani & Henrik Leslye** [*At lykkes*](./at-lykkes)
 * **Rasmus Ankersen** [*Knæk Talentkoden*](./ankersen)
 
 ### Software Development
