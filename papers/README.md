@@ -15,9 +15,12 @@
 #### Cryptography
 
 * **Whitfield Diffie and Martin E. Hellman, 1976** [New Directions in Cryptography](https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf)
-* [EPC342-08 - Guidelines on cryptographic algorithms usage and key management](https://www.europeanpaymentscouncil.eu/document-library/guidance-documents/guidelines-cryptographic-algorithms-usage-and-key-management)
-  * rev. 10 in 2021
+* [EPC342-08 - Guidelines on cryptographic algorithms usage and key management](https://www.europeanpaymentscouncil.eu/document-library/guidance-documents/yearly-update-guidelines-cryptographic-algorithms-usage-and-0)
+  * rev. 13 in 2024
   * contains recommendations on algorithms and key sizes
+* **Alex Biryukov, Daniel Dinu, and Dmitry Khovratovich** [Argon2: the memory-hard function for password hashing and other applications](./argon2-specs-1.3.pdf)
+  * winner of the *Password Hashing Competition* in 2015
+  * [Github repository](https://github.com/p-h-c/phc-winner-argon2)
 * **Jim Waldo, 2019** [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 * **Thomas Wu, 2002** [SRP-6: Improvements and Refinements to the Secure Remote Password Prototol](http://srp.stanford.edu/doc.html)
   * [Secure Remote Password protocol](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
