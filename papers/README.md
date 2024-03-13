@@ -21,6 +21,8 @@
 * **Alex Biryukov, Daniel Dinu, and Dmitry Khovratovich** [Argon2: the memory-hard function for password hashing and other applications](./argon2-specs-1.3.pdf)
   * winner of the [*Password Hashing Competition*](https://www.password-hashing.net/) in 2015
   * [GitHub repository](https://github.com/p-h-c/phc-winner-argon2)
+* **European Union Agency for Cybersecurity (ENISA)** [Pseudonymisation techniques and best practices](https://www.enisa.europa.eu/publications/pseudonymisation-techniques-and-best-practices)
+  * EU advices on how personal data should be handled
 * **Jim Waldo, 2019** [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 * **Thomas Wu, 2002** [SRP-6: Improvements and Refinements to the Secure Remote Password Prototol](http://srp.stanford.edu/doc.html)
   * [Secure Remote Password protocol](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
