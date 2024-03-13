@@ -8,6 +8,10 @@
 * **Ken Thomson, 1984** [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * **James Hamilton, 2007** [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf)
 
+#### API Design
+
+* **Joshua Bloch, 2006** [How to design a good API and why it matters](./how-to-design-a-good-api.pdf)
+
 #### Cryptography
 
 * **Whitfield Diffie and Martin E. Hellman, 1976** [New Directions in Cryptography](https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf)
