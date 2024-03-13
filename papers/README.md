@@ -19,7 +19,7 @@
   * rev. 13 in 2024
   * contains recommendations on algorithms and key sizes
 * **Alex Biryukov, Daniel Dinu, and Dmitry Khovratovich** [Argon2: the memory-hard function for password hashing and other applications](./argon2-specs-1.3.pdf)
-  * winner of the [*Password Hashing Competition*](https://www.password-hashing.net/)argon2-specs-1.3.pdf in 2015
+  * winner of the [*Password Hashing Competition*](https://www.password-hashing.net/) in 2015
   * [GitHub repository](https://github.com/p-h-c/phc-winner-argon2)
 * **Jim Waldo, 2019** [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 * **Thomas Wu, 2002** [SRP-6: Improvements and Refinements to the Secure Remote Password Prototol](http://srp.stanford.edu/doc.html)
