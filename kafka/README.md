@@ -9,9 +9,11 @@
 ##### Scaling Kafka / Number of Partitions (p.62)
 
 ```
+# max processable messages per second equals number of partitions multiplied by messages processed per second in a consumer
 total_number_messages_sec = partitions x number_messages_per_consumer_sec
 
-number_messages_per_consumer_sec = 1000 ms / processing_time_per_message_sec
+# if the avg processing time per message is known, the number of messages per second on one conumser is
+number_messages_per_consumer_sec = 1000 ms / processing_time_per_message_ms
 ```
 
 Example:
