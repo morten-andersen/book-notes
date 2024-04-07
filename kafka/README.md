@@ -6,6 +6,19 @@
 
 #### Chapter 2. **Installing Kafka**
 
+##### Scaling Kafka / Number of Partitions (p.62)
+
+```
+total_number_messages_sec = partitions x number_messages_per_consumer_sec
+
+number_messages_per_consumer_sec = 1000 ms / processing_time_per_message_sec
+```
+
+Example:
+
+If processing time per message is 20 ms -> number of messages per consumer = `50 msg/sec`
+If 500 messages is needed to be processed per second -> `10 partions x 50 msg/sec`
+
 #### Chapter 3. **Kafka Producers** - Writing Messages to Kafka
 
 High level producer overview (p.94)
@@ -21,3 +34,5 @@ High level producer overview (p.94)
 If several applications subscribes to all the messages from the same *topic*, each application must have a *consumer group*.
 
 Scaling of reading and processing of messages from the topics happen by adding consumers to an existing consumer group. Each additional consumer in a group will only get a subset of the messages.
+
+Number of consumers can never exceed number of partitions (or the remainder will idle).
