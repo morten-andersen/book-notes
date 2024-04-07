@@ -8,7 +8,7 @@
 
 ##### Scaling Kafka / Number of Partitions (p.62)
 
-```
+```bash
 # max processable messages per second equals number of partitions multiplied by messages processed per second in a consumer
 total_number_messages_sec = partitions x number_messages_per_consumer_sec
 
