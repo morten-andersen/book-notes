@@ -16,9 +16,10 @@ total_number_messages_sec = partitions x number_messages_per_consumer_sec
 number_messages_per_consumer_sec = 1000 ms / processing_time_per_message_ms
 ```
 
-Example:
+**Example**
 
 If processing time per message is 20 ms -> number of messages per consumer = `50 msg/sec`
+
 If 500 messages is needed to be processed per second -> `10 partions x 50 msg/sec`
 
 #### Chapter 3. **Kafka Producers** - Writing Messages to Kafka
