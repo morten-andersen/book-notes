@@ -6,7 +6,7 @@
 
 #### Chapter 2. **Installing Kafka**
 
-##### Scaling Kafka / Number of Partitions (p.62)
+**Scaling Kafka / Number of Partitions (p.62)**
 
 ```bash
 # max processable messages per second equals number of partitions
