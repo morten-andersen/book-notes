@@ -33,7 +33,7 @@ High level producer overview (p.94)
 
 #### Chapter 4. **Kafka Consumers** - Reading Data from Kafka
 
-##### Consumer groups
+**Consumer groups**
 
 ![Kafka Consumer Groups](02-kafka-consumer-groups.png "Kafka Consumer Groups")
 
