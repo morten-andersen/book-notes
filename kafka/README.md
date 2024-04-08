@@ -2,6 +2,8 @@
 
 [*Kafka: The Definitive Guide, Real-Time Data and Stream Processing at Scale*](https://www.confluent.io/resources/kafka-the-definitive-guide-v2/)
 
+[![Kafka](kafka-2022-02-05.jpg "Kafka")](kafka-2022-02-05.jpg)
+
 #### Chapter 1. **Meet Kafka** - Components and Terms
 
 #### Chapter 2. **Installing Kafka**
