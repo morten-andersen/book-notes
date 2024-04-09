@@ -23,7 +23,7 @@ energy-2020.jpg)
 
 *[South Australia grid operates at 99.8 per cent wind and solar over past seven days](https://reneweconomy-com-au.cdn.ampproject.org/c/s/reneweconomy.com.au/south-australia-grid-operates-at-99-8-per-cent-wind-and-solar-over-past-seven-days/amp/)*
 
-Hvoredan South Australia har opbygget et elsystem hvor de ovre længere perioder kører med 100% grøn energi fra udelukkende vind og sol.
+Hvordan South Australia har opbygget et elsystem hvor de over længere perioder kører med 100% grøn energi fra udelukkende vind og sol.
 
 ##### Uruguay
 
