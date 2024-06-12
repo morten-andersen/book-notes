@@ -8,10 +8,6 @@
 * **Ken Thomson, 1984** [Reflections on Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 * **James Hamilton, 2007** [On Designing and Deploying Internet-Scale Services](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton.pdf)
 
-#### API Design
-
-* **Joshua Bloch, 2006** [How to design a good API and why it matters](./how-to-design-a-good-api.pdf)
-
 #### Cryptography
 
 * **Whitfield Diffie and Martin E. Hellman, 1976** [New Directions in Cryptography](https://www.cs.jhu.edu/~rubin/courses/sp03/papers/diffie.hellman.pdf)
@@ -36,12 +32,6 @@
 * **Ted Dunning, 2019** [Computing Extremely Accurate Quantiles Using *t*-digest](https://arxiv.org/pdf/1902.04023.pdf)
   * algorithm for computing percentiles with very little space
   * https://github.com/tdunning/t-digest
-
-#### Distributed Systems
-
-* **Waldo, J., Wyant, G., Wollrath, A. & Kendall, S., 1994** [A Note on Distributed Computing](https://scholar.harvard.edu/files/waldo/files/waldo-94.pdf)
-* **Saltzer, J.H., Reed, D.P. & Clark, D.D., 1981** [End-to-End Arguments in System Design](https://web.mit.edu/Saltzer/www/publications/endtoend/endtoend.pdf)
-  * [End-to-end principle](https://en.wikipedia.org/wiki/End-to-end_principle)
 
 #### Memory Models and Synchronization
 
