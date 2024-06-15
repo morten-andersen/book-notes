@@ -21,6 +21,7 @@
   * EU advices on how personal data should be handled
 * **Jim Waldo, 2019** [A Hitchhiker's Guide to the Blockchain Universe](https://queue.acm.org/detail.cfm?id=3305265)
 * **Thomas Wu, 2002** [SRP-6: Improvements and Refinements to the Secure Remote Password Prototol](http://srp.stanford.edu/doc.html)
+  * Proton blog post on [Improved Authentication for Email Encryption and Security](https://proton.me/blog/encrypted-email-authentication) which covers some interesting implementation details of their usage of SRP. They also have an excerpt from an old paper covering there SRP usage in more details[ProtonMail Security Features and Infrastructure](./ProtonMail_Authentication_excerpt_30992d07f9.pdf)
   * [Secure Remote Password protocol](https://en.wikipedia.org/wiki/Secure_Remote_Password_protocol)
 
 #### Streaming Algorithms
