@@ -30,14 +30,14 @@
 
 #### Authorization
 
-* **John Mikael Lindbakk** [Authorisation Patterns for Monoliths and Microservices](https://lindbakk.com/blog/authorisation-patterns-for-monoliths-and-microservices)
-  * different patterns
-    * *Native Authorization Pattern* building the authorization in pure code. Hard to verify the company policy.
-    * *Internal Non-Native Authorization Pattern* enforced in the code, but written in a different policy language. Easier to report.
-    * *Proxy Pattern / Gateway Pattern* authorization on the gateway. All internal traffic is trusted. No defense in depth.
-    * *Gloabal Authorization Service Pattern* authorization by calling a central authorization service from every service.
-    * *Infrastructure-Aware Policy Pattern* authorization in e.g. a service mesh or in AWS IAM. Vendor lock in.
-    * *Local Authorization Service Pattern* authorization using e.g. [OPA - Open Policy Agent](https://www.openpolicyagent.org/) using an external policy language.
-      * see e.g. the [OPA Guide on authorization for the HTTP APIs of a service](https://www.openpolicyagent.org/docs/latest/http-api-authorization/)
-  * further information in **Ekaterina Shmeleva**'s master thesis [How Microservices are Changing the
+* **John Mikael Lindbakk** [Authorisation Patterns for Monoliths and Microservices](https://lindbakk.com/blog/authorisation-patterns-for-monoliths-and-microservices) describes different patterns
+  * *Native Authorization Pattern* building the authorization in pure code. Hard to verify the company policy.
+  * *Internal Non-Native Authorization Pattern* enforced in the code, but written in a different policy language. Easier to report.
+  * *Proxy Pattern / Gateway Pattern* authorization on the gateway. All internal traffic is trusted. No defense in depth.
+  * *Gloabal Authorization Service Pattern* authorization by calling a central authorization service from every service.
+  * *Infrastructure-Aware Policy Pattern* authorization in e.g. a service mesh or in AWS IAM. Vendor lock in.
+  * *Local Authorization Service Pattern* authorization using e.g. [OPA - Open Policy Agent](https://www.openpolicyagent.org/) using an external policy language.
+    * see e.g. the [OPA Guide on authorization for the HTTP APIs of a service](https://www.openpolicyagent.org/docs/latest/http-api-authorization/)
+* **Ekaterina Shmeleva**'s master thesis [How Microservices are Changing the
 Security Landscape](https://aaltodoc.aalto.fi/server/api/core/bitstreams/a0bc2320-95e1-49e4-a55e-374243839efc/content)
+* DZone article [Authentication and Authorization in Microservices](https://dzone.com/articles/authentication-and-authorization-in-microservices)
