@@ -16,7 +16,7 @@
 total_number_messages_sec = partitions x number_messages_per_consumer_sec
 
 # if the avg processing time per message is known,
-# the number of messages per second on one conumser is
+# the number of messages per second on one consumer is
 number_messages_per_consumer_sec = 1000 ms / processing_time_per_message_ms
 ```
 
@@ -41,4 +41,4 @@ If several applications subscribes to all the messages from the same *topic*, ea
 
 Scaling of reading and processing of messages from the topics happen by adding consumers to an existing consumer group. Each additional consumer in a group will only get a subset of the messages.
 
-Number of consumers can never exceed number of partitions (or the remainder will idle).
+Number of consumers can never exceed number of partitions (or the remainder will idle and consume no messages).

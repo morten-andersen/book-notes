@@ -8,7 +8,7 @@ I used a programmable Hewlett-Packard [HP-20S](https://en.wikipedia.org/wiki/HP-
 
 It is still fine and functional here 30 years later and most importantly it is [keystroke programmable](https://en.wikipedia.org/wiki/Keystroke_programming). A couple of programs I did back then are documented below.
 
-These are my first programs - besides BASIC programming on Commodore 64 and Comal80 in public school on a [RC759 Piccoline](https://www.old-computers.com/museum/computer.asp?c=1171) in the 80's.
+These are my first programs - besides BASIC programming on Commodore 64 and Comal80 in public school on a [RC759 Piccoline](https://rc700.dk/) in the 80's.
 
 #### Binomialfordelingen
 
