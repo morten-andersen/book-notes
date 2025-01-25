@@ -7,9 +7,9 @@ energy-2020.jpg)
 
 #### Vindmølle parker
 
-[Danske havvind-mølle parker](https://ens.dk/ansvarsomraader/vindmoeller-paa-hav/ansoegte-og-etablerede-havvindmoelleparker)
+[Danske havvind-mølle parker](https://ens.dk/energikilder/etablerede-havvindmoelleparker)
 
-[![Danske havvind-mølle parker - 2022](havvind-202206.jpg "Danske havvind-mølle parker - 2022")](havvind-202206.jpg)
+[![Danske havvind-mølle parker - 2024](havvind-2024.png "Danske havvind-mølle parker - 2024")](havvind-2024.png)
 
 * [Vattenfall's power plants](https://powerplants.vattenfall.com/)
 * [Ørsted's renewable energy sites](https://orsted.com/en/what-we-do/renewable-energy-solutions)
