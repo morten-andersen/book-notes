@@ -64,6 +64,5 @@ Interessant LI post af [Danny Kusuma](https://www.linkedin.com/posts/danny-kusum
 #### Resourcer
 
 * Zetland's [5 minutters forklaring](https://youtu.be/BUn00A3vgSQ) om **Power-to-X**
-* [DTU rapport om smarte energisystemer](https://features.dtu.dk/smarte-energisystemer/)
-* [IDAs klimasvar](https://ida.dk/klimasvar)
 * [Ea Energianalyse](https://www.ea-energianalyse.dk)
+* Informations klimaleksikon [Information forklarer klimaet](https://www.information.dk/serie/information-forklarer-klimaet)
