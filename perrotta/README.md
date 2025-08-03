@@ -11,14 +11,6 @@ Hands on introduction to machine learning with focus on *supervised learning* an
 [![Programming Machine Learning - 1](machine-learning-2020_1.jpg "Programming Machine Learning - 1")](machine-learning-2020_1.jpg)
 [![Programming Machine Learning - 2](machine-learning-2020_2.jpg "Programming Machine Learning - 2")](machine-learning-2020_2.jpg)
 
-#### OpenAI / ChatGPT / Transformers
-
-* [ChatGPT is everywhere. Here’s where it came from](https://www.technologyreview.com/2023/02/08/1068068/chatgpt-is-everywhere-heres-where-it-came-from/?truid=c391fa75ffdab20bb629e835d3d227ce&mc_cid=7c70f2d30e)
-  * traditionally language models have been using RNN (recurrent neural networks)
-  * in 2017 a group of Google researchers invented *transformers* - described in [Attention Is All You Need](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
-* [How ChatGPT actually works](https://www.assemblyai.com/blog/how-chatgpt-actually-works/)
-* [How does ChatGPT work? Tracing the evolution of AIGC](https://www.dtonomy.com/how-does-chatgpt-work/)
-
 #### Software
 
 * [Jupyter](https://jupyter.org/) - machine learning *notebooks* with a mix of text, live code, visualizations, etc.
