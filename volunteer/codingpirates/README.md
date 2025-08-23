@@ -31,4 +31,4 @@ Et tank skyde spil ([tank_full.py](./tank/tank_full.py))
 
 Et jule afslutnings spil med faldende pakker og julekugler ([xmas_demo_full.py](./xmas/xmas_demo_full.py))
 
-[![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.ogv)
+[![jule afslutning](./xmas/xmas.png "jule afslutning")](./xmas/xmas.mp4)
