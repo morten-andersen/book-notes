@@ -18,4 +18,12 @@ Fra kapital til videnssamfund. Eksempler på kapital svage, men videnstunge virk
 * konsulent
 * reklame
 
+#### Centrale ideer
+
+* **virksomheder er levende organismer, ikke maskiner** - virksomheder bør betragtes som levende fællesskaber af mennesker – ikke blot som strukturer, der skal generere profit. Ligesom levende organismer skal de lære, tilpasse sig og udvikle sig for at overleve
+* **lang levetid er vigtigere end kortsigtet gevinst** - de fleste virksomheder "dør unge", fordi de fokuserer ensidigt på økonomisk vækst og overser de menneskelige og kulturelle aspekter, der skaber robusthed og kontinuitet
+* **læring er den eneste bæredygtige konkurrencefordel** - virksomheder, der lærer hurtigere end deres konkurrenter, har større chance for at overleve og trives i et omskifteligt marked
+* **fællesskab og tillid er fundamentet** - et stærkt internt fællesskab, hvor medarbejdere føler ejerskab og tillid, er afgørende for virksomhedens langsigtede sundhed
+* **decentralisering og fleksibilitet fremmer innovation** - virksomheder, der giver plads til lokal beslutningstagning og eksperimenter, er bedre rustet til at håndtere forandringer og usikkerhed
+
 [![The Living Company](den-levende-virksomhed-2013-12.jpg "The Living Company")](den-levende-virksomhed-2013-12.jpg)
