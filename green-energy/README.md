@@ -25,6 +25,8 @@ energy-2020.jpg)
 
 Hvordan South Australia har opbygget et elsystem hvor de over længere perioder kører med 100% grøn energi fra udelukkende vind og sol.
 
+Australiens elsystem kan analyseres på [Open Electricity](https://openelectricity.org.au/)
+
 ##### Uruguay
 
 *[Uruguay’s green power revolution: rapid shift to wind shows the world how it’s done](https://www.theguardian.com/global-development/2023/dec/27/uruguays-green-power-revolution-rapid-shift-to-wind-shows-the-world-how-its-done)*
