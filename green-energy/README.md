@@ -1,15 +1,15 @@
-### Klimamål 2030 - Grøn Omstilling
+### 🌳 Klimamål 2030 - Grøn Omstilling
+
+* [**Personligt Klimaaftryk**](./personal)
 
 En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grønne omstilling.
 
 [![Klimamål 2030 - Grøn Omstilling](green-energy-2020.jpg "Klimamål 2030 - Grøn Omstilling")](green-
 energy-2020.jpg)
 
-* [**Personligt Klimaaftryk**](./personal)
-
 ***
 
-#### Vindmølle parker
+#### ⚡ Vindmølle parker
 
 [Danske havvind-mølle parker](https://ens.dk/energikilder/etablerede-havvindmoelleparker)
 
@@ -19,16 +19,19 @@ energy-2020.jpg)
 * [Ørsted's renewable energy sites](https://orsted.com/en/what-we-do/renewable-energy-solutions)
 * [WindEurope - European Offshore Wind Farms Map](https://windeurope.org/intelligence-platform/product/european-offshore-wind-farms-map-public/)
 
-#### Energi historier
+***
 
-##### Elektricificering i Danmark
+#### 📜 Energi historier
+
+##### 🇩🇰 Elektricificering i Danmark
 
 Fra 2019 til 2024 er det danske el forbrug vokset med 3 TWh (≃9%). 1.88 TWh af disse skyldes vækst i elforbruget til fjernvarme, dvs. 615 af væksten i elforbruget skyldes vækst i store elpumper og øget udrulning af fjernvarme.
 
 Kilde: Dansk fjernvarme - [Fjernvarmen driver elektrificeringen i Danmark](https://via.ritzau.dk/pressemeddelelse/14667069/fjernvarmen-driver-elektrificeringen-i-danmark?publisherId=3320505&lang=da)
 
+***
 
-##### South Australia
+##### 🇦🇺 South Australia
 
 [![South Australia - 2023](south-australia.webp "South Australia - 2023")](south-australia.webp)
 
@@ -38,13 +41,17 @@ Hvordan South Australia har opbygget et elsystem hvor de over længere perioder 
 
 Australiens elsystem kan analyseres på [Open Electricity](https://openelectricity.org.au/)
 
-##### Uruguay
+***
+
+##### 🇺🇾 Uruguay
 
 *[Uruguay’s green power revolution: rapid shift to wind shows the world how it’s done](https://www.theguardian.com/global-development/2023/dec/27/uruguays-green-power-revolution-rapid-shift-to-wind-shows-the-world-how-its-done)*
 
 Historien om hvordan Uruguay på 20 år er gået fra 0% grøn energi til idag at have et netværk hvor op imod 90-95% af deres strøm idag er grøn.
 
-#### EMODnet [European Marine Observation and Data Network](https://emodnet.ec.europa.eu/en)
+***
+
+#### 🗺️ EMODnet [European Marine Observation and Data Network](https://emodnet.ec.europa.eu/en)
 
 [Kort over marine aktiviter](https://emodnet.ec.europa.eu/geoviewer/#!/).
 
@@ -56,11 +63,15 @@ I modsætning til antal bore huller
 
 [![Human Activities -> Oil and Gas -> Boreholes](europe-boreholes.png "Human Activities -> Oil and Gas -> Boreholes")](europe-boreholes.png)
 
-#### Batteri teknologi
+***
+
+#### 🔋 Batteri teknologi
 
 MIT Technology Review (January 2023) - [What’s next for batteries](https://www.technologyreview.com/2023/01/04/1066141/whats-next-for-batteries/)
 
-#### Brint / Hydrogen
+***
+
+#### 🌈 Brint / Hydrogen
 
 MIT Technology Review (February 2023) - [When hydrogen will help climate change—and when it won't](https://www.technologyreview.com/2023/02/23/1069086/when-hydrogen-will-help-climate-change-and-when-it-wont/)
 
@@ -68,13 +79,17 @@ MIT Technology Review (February 2023) - [When hydrogen will help climate change�
 
 ![The Hydrogen Rainbow](hydrogen-rainbow.png "The Hydrogen Rainbow")
 
-#### Carbon Pricing
+***
+
+#### 💶 Carbon Pricing
 
 Interessant LI post af [Danny Kusuma](https://www.linkedin.com/posts/danny-kusuma_carbonemissions-carbonpricing-renewableenergy-activity-7106096256334143488-HxZW) om carbon pris sammenholdt med GDP.
 
 [![Carbon Pricing around the World](carbon-price.jpg "Carbon Pricing around the World")](carbon-price.jpg)
 
-#### Resourcer
+***
+
+#### 📚 Resourcer
 
 * Zetland's [5 minutters forklaring](https://youtu.be/BUn00A3vgSQ) om **Power-to-X**
 * [Ea Energianalyse](https://www.ea-energianalyse.dk)

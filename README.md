@@ -1,5 +1,7 @@
 Notes on books I read, talks I watch, articles I study, and papers I love
 
+***
+
 ### 🧑‍🎓 Life, Philosophy, Personal Development, Being responsible
 
 💜 *How we spend our days is, of course, how we spend our lives* 💜 -- **Annie Dillard**
@@ -12,6 +14,8 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 * **Soulaima Gourani & Henrik Leslye** [*At lykkes*](./at-lykkes)
 * **Rasmus Ankersen** [*Knæk Talentkoden*](./ankersen)
 
+***
+
 ### 👨‍💻 Software Development
 
 * **David Thomas & Andrew Hunt** [*The Pragmatic Programmer*](./pragmatic)
@@ -23,24 +27,34 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 * **Jacob Bøtter** [NO-CODE](./botter)
 * [**Kafka - The Definitive Guide, ed. 2**](./kafka)
 
+***
+
 ### 💼 Business
 
 * **Arie de Geus** [*The Living Company*](./geus)
 * **Steven Silbiger** [*The 10-Day MBA*](./silbiger)
 * **Nicolas Bate** [*Instant MBA*](./bate)
 
+***
+
 ### 🇺🇳 Society, the Bigger Picture
 
 * [**Green Energy - Climate Change notes**](./green-energy)
 * **Chris Anderson** [*Makers: The new Industrial Revolution*](./anderson)
 
+***
+
 ### ✋ Volunteer work - various notes
 
 * [**Volunteer work notes**](./volunteer) for various kids summer camps, teaching in programming and some presentations.
 
+***
+
 ### 🧮 Mathematics
 
 * [**Mathematics notes**](./mathematics) from my high school time in the early 90's. Programs for the Hewlett-Packard [HP-20S](https://en.wikipedia.org/wiki/HP-20S) scientific calculator.
+
+***
 
 ### 🧬 History / Natural Science
 
