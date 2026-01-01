@@ -5,6 +5,8 @@ En række noter baseret på artikler i Ingeniøren i løbet af 2020 om den grøn
 [![Klimamål 2030 - Grøn Omstilling](green-energy-2020.jpg "Klimamål 2030 - Grøn Omstilling")](green-
 energy-2020.jpg)
 
+* [**Personligt Klimaaftryk**](./personal)
+
 #### Vindmølle parker
 
 [Danske havvind-mølle parker](https://ens.dk/energikilder/etablerede-havvindmoelleparker)
@@ -16,6 +18,13 @@ energy-2020.jpg)
 * [WindEurope - European Offshore Wind Farms Map](https://windeurope.org/intelligence-platform/product/european-offshore-wind-farms-map-public/)
 
 #### Energi historier
+
+##### Elektricificering i Danmark
+
+Fra 2019 til 2024 er det danske el forbrug vokset med 3 TWh (≃9%). 1.88 TWh af disse skyldes vækst i elforbruget til fjernvarme, dvs. 615 af væksten i elforbruget skyldes vækst i store elpumper og øget udrulning af fjernvarme.
+
+Kilde: Dansk fjernvarme - [Fjernvarmen driver elektrificeringen i Danmark](https://via.ritzau.dk/pressemeddelelse/14667069/fjernvarmen-driver-elektrificeringen-i-danmark?publisherId=3320505&lang=da)
+
 
 ##### South Australia
 
@@ -68,3 +77,4 @@ Interessant LI post af [Danny Kusuma](https://www.linkedin.com/posts/danny-kusum
 * Zetland's [5 minutters forklaring](https://youtu.be/BUn00A3vgSQ) om **Power-to-X**
 * [Ea Energianalyse](https://www.ea-energianalyse.dk)
 * Informations klimaleksikon [Information forklarer klimaet](https://www.information.dk/serie/information-forklarer-klimaet)
+  * [Hvordan mindsker man mest effektivt sit aftryk på planeten? Forstå konsekvenserne af dit forbrug](https://www.information.dk/indland/2024/11/hvordan-mindsker-mest-effektivt-aftryk-paa-planeten-forstaa-konsekvenserne-dit-forbrug)
