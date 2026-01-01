@@ -1,4 +1,4 @@
-### 🎯 Personligt Klimaaftryk
+### 🎯 Personligt Klimaaftryk 🎯
 
 I forbindelse med klima topmødet COP28 i Dubai i december 2023 lavede jeg et personligt regnskab over vores CO₂ footprint i december og gangede det op til et årligt forbrug på ca. 5 ton CO₂, hvoraf de 5 flyvninger vi havde i 2023 udgjorde ca. 1.1 ton, dvs. ≃ 20%.
 
@@ -16,6 +16,8 @@ Gennemsnittet for en dansk person var i 2025 ca. 10 ton (🔗[Danmarks globale k
 | Forbrug            |     0.5 ton |   10% |
 | ------------------ | ----------- | ----- |
 | **Total**          | **5.0 ton** | **100%** |
+
+***
 
 #### 📚 Resourcer
 

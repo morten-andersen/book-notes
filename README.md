@@ -60,8 +60,9 @@ Notes on books I read, talks I watch, articles I study, and papers I love
 
 ***
 
-*This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]*
 [![CC BY 4.0][cc-by-image]][cc-by]
+
+*This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by]*
 
 *© Morten Andersen - 🔗 [accel.dk](https://www.accel.dk/)*
 

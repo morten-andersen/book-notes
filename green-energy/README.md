@@ -1,4 +1,4 @@
-### 🌳 Grøn Omstilling
+### 🌳 Grøn Omstilling 🌳
 
 * [**Personligt Klimaaftryk**](./personal)
 
