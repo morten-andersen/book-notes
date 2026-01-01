@@ -2,18 +2,20 @@
 
 I forbindelse med klima topmødet COP28 i Dubai i december 2023 lavede jeg et personligt regnskab over vores CO₂ footprint i december og gangede det op til et årligt forbrug på ca. 5 ton CO₂, hvoraf de 5 flyvninger vi havde i 2023 udgjorde ca. 1.1 ton, dvs. ≃ 20%.
 
+Gennemsnittet for en dansk person var i 2025 ca. 10 ton (kilde [Danmarks globale klimapåvirkning - Global afrapportering](https://ens.dk/analyser-og-statistik/danmarks-globale-klimapaavirkning-global-afrapportering))
+
 #### 📉 2023
 
 | **Kategori**       | **Ton CO₂** | **%** |
 | ------------------ | ----------- | ----- |
-| Transport uden fly |     1.2 ton |   24% |
+| Transport uden fly |   `1.2 ton` | `24%` |
 | Fly (5 flyvninger) |     1.1 ton |   22% |
 | Opvarmning         |     0.4 ton |    8% |
 | Strøm (600 kWh)    |     0.1 ton |    2% |
 | Mad (vegatarisk)   |     1.6 ton |   32% |
 | Forbrug            |     0.5 ton |   10% |
 | ------------------ | ----------- | ----- |
-| **Total**          |     5.0 ton |  100% |
+| **Total**          |   *5.0 ton* | *100%*|
 
 #### 📚 Resourcer
 
