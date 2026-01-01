@@ -7,6 +7,8 @@ energy-2020.jpg)
 
 * [**Personligt Klimaaftryk**](./personal)
 
+***
+
 #### Vindmølle parker
 
 [Danske havvind-mølle parker](https://ens.dk/energikilder/etablerede-havvindmoelleparker)
