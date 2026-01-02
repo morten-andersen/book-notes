@@ -25,7 +25,7 @@ energy-2020.jpg)
 
 ##### 🇩🇰 Elektricificering i Danmark
 
-Fra 2019 til 2024 er det danske el forbrug vokset med 3 TWh (≃9%). 1.88 TWh af disse skyldes vækst i elforbruget til fjernvarme, dvs. 615 af væksten i elforbruget skyldes vækst i store elpumper og øget udrulning af fjernvarme.
+Fra 2019 til 2024 er det danske el forbrug vokset med 3 TWh (≃9%). 1.88 TWh af disse skyldes vækst i elforbruget til fjernvarme, dvs. 61% af væksten i elforbruget skyldes vækst i store elpumper og øget udrulning af fjernvarme.
 
 Kilde: Dansk fjernvarme - [Fjernvarmen driver elektrificeringen i Danmark](https://via.ritzau.dk/pressemeddelelse/14667069/fjernvarmen-driver-elektrificeringen-i-danmark?publisherId=3320505&lang=da)
 
