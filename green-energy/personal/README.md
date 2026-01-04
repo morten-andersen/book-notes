@@ -17,9 +17,9 @@ Gennemsnittet for en dansk person var i 2025 ca. 10 ton (🔗[Danmarks globale k
 | ------------------ | ----------- | ----- |
 | **Total**          | **5.0 ton** | **100%** |
 
-***
-
 [![december 2023](co2-2023-12.png "december 2023")](co2-2023-12.pdf)
+
+***
 
 #### 📚 Resourcer
 
