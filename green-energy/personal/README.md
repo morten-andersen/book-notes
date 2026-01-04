@@ -19,6 +19,8 @@ Gennemsnittet for en dansk person var i 2025 ca. 10 ton (🔗[Danmarks globale k
 
 ***
 
+[![december 2023](co2-2023-12.png "december 2023")](co2-2023-12.pdf)
+
 #### 📚 Resourcer
 
 * Informations 🔗[Hvordan mindsker man mest effektivt sit aftryk på planeten? Forstå konsekvenserne af dit forbrug](https://www.information.dk/indland/2024/11/hvordan-mindsker-mest-effektivt-aftryk-paa-planeten-forstaa-konsekvenserne-dit-forbrug)
